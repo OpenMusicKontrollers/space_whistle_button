@@ -1,0 +1,101 @@
+Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = Mon 28 Jul 2014 15:44:12 CEST
+
+BeginCmp
+TimeStamp = /53CE8F5B;
+Reference = C1;
+ValeurCmp = 10uF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53CE8F6A;
+Reference = C2;
+ValeurCmp = 10uF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53CE9158;
+Reference = C3;
+ValeurCmp = 1uF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53CE8FCC;
+Reference = C4;
+ValeurCmp = 0.1uF;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53CE8FEF;
+Reference = C5;
+ValeurCmp = 0.1uF;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53CE9167;
+Reference = C6;
+ValeurCmp = 1uF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53CE912B;
+Reference = C7;
+ValeurCmp = 1uF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53CE9026;
+Reference = K1;
+ValeurCmp = CONN_3;
+IdModule  = SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53CE90E8;
+Reference = R1;
+ValeurCmp = 20k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53CE9085;
+Reference = RV1;
+ValeurCmp = 5k;
+IdModule  = SMT_TRIMPOT;
+EndCmp
+
+BeginCmp
+TimeStamp = /53CE90BC;
+Reference = RV2;
+ValeurCmp = 200k;
+IdModule  = SMT_TRIMPOT;
+EndCmp
+
+BeginCmp
+TimeStamp = /53CE8E13;
+Reference = S1;
+ValeurCmp = A1304;
+IdModule  = SOT23W;
+EndCmp
+
+BeginCmp
+TimeStamp = /53CE8DFC;
+Reference = U1;
+ValeurCmp = MCP1703;
+IdModule  = SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /53CE8D39;
+Reference = U2;
+ValeurCmp = MCP601;
+IdModule  = SOT23-5;
+EndCmp
+
+EndListe
